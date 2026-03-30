@@ -1,1 +1,1 @@
-# mtiny
+# tinygame
