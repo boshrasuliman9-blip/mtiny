@@ -1,5 +1,5 @@
 const emotionCards = [
-  { key: 'happy', label: 'Happy', image: 'happy.png' },
+  { key: 'happy', label: 'Happy', image: 'img/happy.png' },
   { key: 'sad', label: 'Sad', image: 'sad.png' },
   { key: 'angry', label: 'Angry', image: 'angry.png' },
   { key: 'funny', label: 'Funny', image: 'funny.png' },
